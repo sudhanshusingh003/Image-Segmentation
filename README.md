@@ -21,38 +21,47 @@ The project focuses on improving image segmentation accuracy with a U-Net archit
 - High accuracy in image segmentation tasks
 
 ## Installation
-Clone the repository and install the required dependencies:
-```bash
-git clone https://github.com/rishita3003/Image-Segmentation.git
-cd Image-Segmentation
-pip install -r requirements.txt
-```
+1. Clone the repository and install the required dependencies:
+   
+   ```bash
+   git clone https://github.com/rishita3003/Image-Segmentation.git
+   ```
+   ```
+   cd Image-Segmentation
+   ```
+   ```
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-To train the model, open and run the Jupyter notebook:
 
-```bash
-jupyter notebook image-segmentation-using-unet.ipynb
-```
-Ensure the Kaggle dataset is downloaded and placed in the appropriate directory.
+1. To train the model, open and run the Jupyter notebook:
+   
+   ```bash
+   jupyter notebook image-segmentation-using-unet.ipynb
+   ```
+3. Ensure the Kaggle dataset is downloaded and placed in the appropriate directory.
  
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch
+   
    ```bash
    git checkout -b feature-branch
    ```
-3.Commit your changes 
-```bash
-git commit -m 'Add feature'.
-```
-4. Push to the branch
+4. Commit your changes
+   
+   ```bash
+   git commit -m 'Add feature'.
+   ```
+6. Push to the branch
+   
    ```bash
    git push origin feature-branch.
    ```
-5. Open a pull request.
+8. Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
