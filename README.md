@@ -67,4 +67,4 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or feedback, please contact the project maintainer at rishitaagarwal2604@gmail.com.
+For any questions or feedback, please contact the project maintainer at sudhanshukumarsingh2021@gmail.com.
